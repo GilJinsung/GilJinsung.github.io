@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GilJinsung"
     - label: "Youtube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: https://www.youtube.com/@vltour9272
     
 
@@ -139,7 +139,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GilJinsung"
     - label: "Youtube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: https://www.youtube.com/@vltour9272
 
 
