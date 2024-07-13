@@ -119,24 +119,16 @@ author:
   location         : "South Korea"
   email            : "jsgil0630@gmail.com"
   links:
-    - label: "Email"
+    - label: "jsgil0630@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jsgil0630@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://md201866004.netlify.app/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/GilJinsung"
+    
 
 # Site Footer
 footer:
@@ -310,6 +302,9 @@ compress_html:
     envs: development
 
 
+
+
+
 # Defaults
 defaults:
   # _posts
@@ -324,5 +319,13 @@ defaults:
       share: true
       related: true
       show_date: true
-      date_format: "%Y-%m-%d"
+     
 
+
+
+
+
+
+date_format: "%Y-%m-%d"
+
+"%Y"' %
